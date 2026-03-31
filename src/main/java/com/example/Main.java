@@ -7,6 +7,8 @@ import java.util.List;
 
 /**
  * Точка входа в приложение
+ * @see <a href="https://github.com/METAMARGINAL/fourth_lab" target="_blank">Репозиторий проекта на GitHub</a>
+
  */
 public class Main {
 
